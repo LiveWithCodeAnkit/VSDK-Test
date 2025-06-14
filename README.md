@@ -20,8 +20,7 @@ This project is a React-based application designed to visualize participant time
 
 - **Participant Timeline Visualization**: Displays a timeline for each participant, showing events such as microphone and webcam usage, along with any errors encountered.
 - **Session Health Overview**: Provides a quick overview of the session's health, with a toggle to show or hide participant timelines.
-- **Navigation Bar**: Displays time markers for the session duration, allowing easy navigation through the timeline.
-- **Responsive Design**: Utilizes Tailwind CSS for responsive and modern UI design.
+- **Navigation Bar**: Displays time markers for the session duration, allowing easy navigation through the timeline..
 
 ## Technologies Used
 
