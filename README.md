@@ -59,11 +59,6 @@ This project is a React-based application designed to visualize participant time
 - **Toggle Participant Timeline**: Use the switch in the Session Health Overview section to show or hide the participant timeline.
 - **View Details**: Click on the "View details" button next to each participant to see more information about their session events.
 
-## Future Enhancements
-
-- **Real-time Data Integration**: Connect to a live data source for real-time updates.
-- **Enhanced Error Handling**: Improve error visualization and handling for better user experience.
-
 ## License
 
 This project is licensed under the MIT License.
